@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "30f546134126d899831a",
-    "url": "/urdu_addition_counting_objects/static/css/main.e16db107.chunk.css"
+    "revision": "10acc1db01d627d873be",
+    "url": "/urdu_addition_counting_objects/static/css/main.20c90cef.chunk.css"
   },
   {
-    "revision": "30f546134126d899831a",
-    "url": "/urdu_addition_counting_objects/static/js/main.ef19a4ff.chunk.js"
+    "revision": "10acc1db01d627d873be",
+    "url": "/urdu_addition_counting_objects/static/js/main.ba986869.chunk.js"
   },
   {
     "revision": "5b36a36689b4ec2034cc",
     "url": "/urdu_addition_counting_objects/static/js/runtime~main.7676b648.js"
   },
   {
-    "revision": "d3d754ab16ec22f1d31d",
-    "url": "/urdu_addition_counting_objects/static/css/2.3372ce49.chunk.css"
+    "revision": "a3e8e32050eecffd5227",
+    "url": "/urdu_addition_counting_objects/static/css/2.bedde4fd.chunk.css"
   },
   {
-    "revision": "d3d754ab16ec22f1d31d",
-    "url": "/urdu_addition_counting_objects/static/js/2.0aff8e3a.chunk.js"
+    "revision": "a3e8e32050eecffd5227",
+    "url": "/urdu_addition_counting_objects/static/js/2.ac335c85.chunk.js"
   },
   {
     "revision": "0043b26c368631ed46ee",
@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/urdu_addition_counting_objects/static/media/1.a7f0e4e3.svg"
   },
   {
-    "revision": "424d18986561c7039221eb97a66aef6b",
-    "url": "/urdu_addition_counting_objects/static/media/tostartpressbutton.424d1898.mp3"
+    "revision": "1e695820a1572347f6a0a76f53280775",
+    "url": "/urdu_addition_counting_objects/static/media/tostartpressbutton.1e695820.mp3"
   },
   {
-    "revision": "8efff185f64e4259ae68a4074dbfb0e6",
-    "url": "/urdu_addition_counting_objects/static/media/321go.8efff185.mp3"
+    "revision": "b8fca396c389eea881872cc7f0e7855b",
+    "url": "/urdu_addition_counting_objects/static/media/321go.b8fca396.mp3"
   },
   {
-    "revision": "09b0b7bb4e8aad40481825ec9d91d223",
-    "url": "/urdu_addition_counting_objects/static/media/rightAnswer.09b0b7bb.mp3"
+    "revision": "88e8a851b1954501951ae45cf46c1e2f",
+    "url": "/urdu_addition_counting_objects/static/media/rightAnswer.88e8a851.mp3"
   },
   {
-    "revision": "ddcbc59b2917e3dbeb737fca1e3ede4e",
-    "url": "/urdu_addition_counting_objects/static/media/wrongAnswer.ddcbc59b.mp3"
+    "revision": "48b32efb6257ce0ee9f40b87b5894871",
+    "url": "/urdu_addition_counting_objects/static/media/wrongAnswer.48b32efb.mp3"
   },
   {
     "revision": "74562e5d9b36cc740a89848ba488bf7d",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/urdu_addition_counting_objects/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "e202cde5c8b319fc0c7762c3e065a766",
+    "revision": "0b080261226fbe3c51997d2233d4a8ee",
     "url": "/urdu_addition_counting_objects/index.html"
   }
 ];
